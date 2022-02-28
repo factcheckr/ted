@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-02-28T17:22:06.958Z</updated>
+    <updated>2022-02-28T18:25:39.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -182,9 +182,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[기후 변화에 대처하기 위해서 젊은 세대들에게 귀를 기울여주세요]]></title>
-        <id>https://www.ted.com/talks/nkosilathi_nyathi_a_next_generation_solution_to_climate_crisis?language=ko</id>
-        <link href="https://www.ted.com/talks/nkosilathi_nyathi_a_next_generation_solution_to_climate_crisis?language=ko"/>
-        <updated>2022-02-28T07:08:24.425Z</updated>
+        <id>https://www.ted.com/talks/nkosilathi_nyathi_a_next_generation_solution_to_the_climate_crisis?language=ko</id>
+        <link href="https://www.ted.com/talks/nkosilathi_nyathi_a_next_generation_solution_to_the_climate_crisis?language=ko"/>
+        <updated>2022-02-28T18:25:39.190Z</updated>
         <content type="html"><![CDATA[Nkosilathi Nyathi]]></content>
     </entry>
     <entry>
