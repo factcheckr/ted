@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-03-13T08:24:49.542Z</updated>
+    <updated>2022-03-13T09:20:15.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/alexandra_minna_stern_and_natalie_lira_the_movement_that_inspired_the_holocaust?language=ko"/>
         <updated>2022-03-10T16:31:20.030Z</updated>
         <content type="html"><![CDATA[Alexandra Minna Stern and Natalie Lira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 먹는 거의 모든 음식에 들어간 재료 - 프란체스카 봇(Francesca Bot)]]></title>
+        <id>https://www.ted.com/talks/francesca_bot_the_ingredient_in_almost_everything_you_eat?language=ko</id>
+        <link href="https://www.ted.com/talks/francesca_bot_the_ingredient_in_almost_everything_you_eat?language=ko"/>
+        <updated>2022-03-13T09:20:14.804Z</updated>
+        <content type="html"><![CDATA[Francesca Bot]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 수수께끼를 풀어서 천지창조에서 살아남을 수 있을까요? - 제임스 탄톤]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/matt_walker_what_is_melatonin_and_should_you_take_it_to_fall_asleep?language=ko"/>
         <updated>2022-02-28T07:08:24.431Z</updated>
         <content type="html"><![CDATA[Matt Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청바지의 일생 - 마다비 벵카티산(Madhavi Venkatesan)]]></title>
-        <id>https://www.ted.com/talks/madhavi_venkatesan_the_life_cycle_of_a_pair_of_jeans?language=ko</id>
-        <link href="https://www.ted.com/talks/madhavi_venkatesan_the_life_cycle_of_a_pair_of_jeans?language=ko"/>
-        <updated>2022-02-28T07:08:24.432Z</updated>
-        <content type="html"><![CDATA[Madhavi Venkatesan]]></content>
     </entry>
 </feed>
