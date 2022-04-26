@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-04-26T02:01:59.804Z</updated>
+    <updated>2022-04-26T03:51:12.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -69,11 +69,25 @@
         <content type="html"><![CDATA[Fariel Salahuddin]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지구 환경을 보호하는 아프리카 늪지]]></title>
+        <id>https://www.ted.com/talks/vera_songwe_the_african_swamp_protecting_earth_s_environment?language=ko</id>
+        <link href="https://www.ted.com/talks/vera_songwe_the_african_swamp_protecting_earth_s_environment?language=ko"/>
+        <updated>2022-04-26T03:51:11.967Z</updated>
+        <content type="html"><![CDATA[Vera Songwe]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정서 학대의 징조 4가지 - 비안 응우엔 펭(Viann Nguyễn-Feng)]]></title>
         <id>https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse?language=ko</id>
         <link href="https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse?language=ko"/>
         <updated>2022-03-30T10:24:43.102Z</updated>
         <content type="html"><![CDATA[Viann Nguyen-Feng]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비즈니스에서의 목적의 힘]]></title>
+        <id>https://www.ted.com/talks/ashley_m_grice_the_power_of_purpose_in_business?language=ko</id>
+        <link href="https://www.ted.com/talks/ashley_m_grice_the_power_of_purpose_in_business?language=ko"/>
+        <updated>2022-04-26T03:51:11.968Z</updated>
+        <content type="html"><![CDATA[Ashley M. Grice]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비둘기는 어떻게 전 세계를 차지했을까요?]]></title>
@@ -242,19 +256,5 @@
         <link href="https://www.ted.com/talks/iseult_gillespie_the_tragic_myth_of_the_sun_god_s_son?language=ko"/>
         <updated>2022-02-28T07:08:24.387Z</updated>
         <content type="html"><![CDATA[Iseult Gillespie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편견을 부수고 한계를 거부하는 방법]]></title>
-        <id>https://www.ted.com/talks/candace_parker_how_to_break_down_barriers_and_not_accept_limits?language=ko</id>
-        <link href="https://www.ted.com/talks/candace_parker_how_to_break_down_barriers_and_not_accept_limits?language=ko"/>
-        <updated>2022-02-28T07:08:24.388Z</updated>
-        <content type="html"><![CDATA[Candace Parker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 고양이의 눈동자는 길쭉할까? - 엠마 브라이스]]></title>
-        <id>https://www.ted.com/talks/emma_bryce_why_do_cats_have_vertical_pupils?language=ko</id>
-        <link href="https://www.ted.com/talks/emma_bryce_why_do_cats_have_vertical_pupils?language=ko"/>
-        <updated>2022-02-28T07:08:24.390Z</updated>
-        <content type="html"><![CDATA[Emma Bryce]]></content>
     </entry>
 </feed>
