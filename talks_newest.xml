@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-05-04T02:03:12.862Z</updated>
+    <updated>2022-05-04T03:52:59.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -109,6 +109,13 @@
         <link href="https://www.ted.com/talks/elizabeth_carlen_and_joanna_moles_how_pigeons_took_over_the_world?language=ko"/>
         <updated>2022-03-30T08:27:14.148Z</updated>
         <content type="html"><![CDATA[Elizabeth Carlen and Joanna Moles]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자가 조립 능력 로봇과 잠재적인 인공 진화]]></title>
+        <id>https://www.ted.com/talks/emma_hart_self_assembling_robots_and_the_potential_of_artificial_evolution?language=ko</id>
+        <link href="https://www.ted.com/talks/emma_hart_self_assembling_robots_and_the_potential_of_artificial_evolution?language=ko"/>
+        <updated>2022-05-04T03:52:59.143Z</updated>
+        <content type="html"><![CDATA[Emma Hart]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[난민이 된다는 것은 무슨 뜻일까요? -베네데타 버티, 에브리앙 보그만(Benedetta Berti and Evelien Borgman)]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko"/>
         <updated>2022-04-13T10:25:07.876Z</updated>
         <content type="html"><![CDATA[Katie Paterson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교활한 거미 아난시 이야기 - 에밀리 조벨 마샬(Emily Zobel Marshall)]]></title>
-        <id>https://www.ted.com/talks/emily_zobel_marshall_the_myth_of_anansi_the_trickster_spider?language=ko</id>
-        <link href="https://www.ted.com/talks/emily_zobel_marshall_the_myth_of_anansi_the_trickster_spider?language=ko"/>
-        <updated>2022-02-28T07:08:24.379Z</updated>
-        <content type="html"><![CDATA[Emily Zobel Marshall]]></content>
     </entry>
 </feed>
