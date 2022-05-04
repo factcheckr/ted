@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-05-04T07:22:11.735Z</updated>
+    <updated>2022-05-04T08:28:32.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.ted.com/talks/bill_gates_we_can_make_covid_19_the_last_pandemic?language=ko"/>
         <updated>2022-04-26T02:01:59.041Z</updated>
         <content type="html"><![CDATA[Bill Gates]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좀비의 어두운 역사 – 크리스토퍼 M. 모어만 (Christopher M. Moreman)]]></title>
+        <id>https://www.ted.com/talks/christopher_m_moreman_the_dark_history_of_zombies?language=ko</id>
+        <link href="https://www.ted.com/talks/christopher_m_moreman_the_dark_history_of_zombies?language=ko"/>
+        <updated>2022-05-04T08:28:31.322Z</updated>
+        <content type="html"><![CDATA[Christopher M. Moreman]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[두려움을 극복하기 위한 올림픽 챔피언의 사고방식]]></title>
@@ -249,12 +256,5 @@
         <link href="https://www.ted.com/talks/rachel_kyte_sustainable_cooling_that_doesn_t_warm_the_planet?language=ko"/>
         <updated>2022-04-27T12:42:04.075Z</updated>
         <content type="html"><![CDATA[Rachel Kyte]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜 세월의 심금을 울리는 예술]]></title>
-        <id>https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko</id>
-        <link href="https://www.ted.com/talks/katie_paterson_the_mind_bending_art_of_deep_time?language=ko"/>
-        <updated>2022-04-13T10:25:07.876Z</updated>
-        <content type="html"><![CDATA[Katie Paterson]]></content>
     </entry>
 </feed>
