@@ -2,259 +2,259 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-05-12T23:24:33.636Z</updated>
+    <updated>2022-06-04T13:13:20.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이루어질 수 없는 사랑을 다룬 아시아 신화]]></title>
-        <id>https://www.ted.com/talks/shannon_zhao_the_myth_of_the_original_star_crossed_lovers?language=ko</id>
-        <link href="https://www.ted.com/talks/shannon_zhao_the_myth_of_the_original_star_crossed_lovers?language=ko"/>
-        <updated>2022-04-28T15:26:12.234Z</updated>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.731Z</updated>
+        <content type="html"><![CDATA[Sarah Stroud]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.731Z</updated>
+        <content type="html"><![CDATA[Anees Bahji]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.731Z</updated>
+        <content type="html"><![CDATA[Kayla Wolf]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.731Z</updated>
+        <content type="html"><![CDATA[Celina de Sola]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.732Z</updated>
+        <content type="html"><![CDATA[Sue Natali]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.732Z</updated>
         <content type="html"><![CDATA[Shannon Zhao]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이번이 마지막 팬데믹이 되도록 할 수 있습니다]]></title>
-        <id>https://www.ted.com/talks/bill_gates_we_can_make_covid_19_the_last_pandemic?language=ko</id>
-        <link href="https://www.ted.com/talks/bill_gates_we_can_make_covid_19_the_last_pandemic?language=ko"/>
-        <updated>2022-04-26T02:01:59.041Z</updated>
-        <content type="html"><![CDATA[Bill Gates]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좀비의 어두운 역사 – 크리스토퍼 M. 모어만 (Christopher M. Moreman)]]></title>
-        <id>https://www.ted.com/talks/christopher_m_moreman_the_dark_history_of_zombies?language=ko</id>
-        <link href="https://www.ted.com/talks/christopher_m_moreman_the_dark_history_of_zombies?language=ko"/>
-        <updated>2022-05-04T08:28:31.322Z</updated>
-        <content type="html"><![CDATA[Christopher M. Moreman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두려움을 극복하기 위한 올림픽 챔피언의 사고방식]]></title>
-        <id>https://www.ted.com/talks/allyson_felix_an_olympic_champion_s_mindset_for_overcoming_fear?language=ko</id>
-        <link href="https://www.ted.com/talks/allyson_felix_an_olympic_champion_s_mindset_for_overcoming_fear?language=ko"/>
-        <updated>2022-05-04T02:03:12.113Z</updated>
-        <content type="html"><![CDATA[Allyson Felix]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바퀴벌레를 없애는 것은 왜 이렇게 어려울까요? - 아메야 곤달레카르]]></title>
-        <id>https://www.ted.com/talks/ameya_gondhalekar_why_are_cockroaches_so_hard_to_kill?language=ko</id>
-        <link href="https://www.ted.com/talks/ameya_gondhalekar_why_are_cockroaches_so_hard_to_kill?language=ko"/>
-        <updated>2022-04-19T15:24:41.554Z</updated>
-        <content type="html"><![CDATA[Ameya Gondhalekar]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하데스와 페르세포네의 신화 - 이시얼트 길레스피]]></title>
-        <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_hades_and_persephone?language=ko</id>
-        <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_hades_and_persephone?language=ko"/>
-        <updated>2022-04-24T08:26:33.996Z</updated>
-        <content type="html"><![CDATA[Iseult Gillespie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피의자인 배우자에 대한 윤리적 딜레마 – 알렉스 워스닙(Alex Worsnip)]]></title>
-        <id>https://www.ted.com/talks/alex_worsnip_ethical_dilemma_who_should_you_believe?language=ko</id>
-        <link href="https://www.ted.com/talks/alex_worsnip_ethical_dilemma_who_should_you_believe?language=ko"/>
-        <updated>2022-04-15T01:50:02.412Z</updated>
-        <content type="html"><![CDATA[Alex Worsnip]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악과 맞선 싸움에서 우크라이나와 함께하세요]]></title>
-        <id>https://www.ted.com/talks/garry_kasparov_stand_with_ukraine_in_the_fight_against_evil?language=ko</id>
-        <link href="https://www.ted.com/talks/garry_kasparov_stand_with_ukraine_in_the_fight_against_evil?language=ko"/>
-        <updated>2022-05-09T12:43:14.633Z</updated>
-        <content type="html"><![CDATA[Garry Kasparov]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀이 무섭다면, 이걸 보세요 - 앤드류 휘트워스]]></title>
-        <id>https://www.ted.com/talks/andrew_whitworth_if_you_re_scared_of_snakes_watch_this?language=ko</id>
-        <link href="https://www.ted.com/talks/andrew_whitworth_if_you_re_scared_of_snakes_watch_this?language=ko"/>
-        <updated>2022-04-07T19:18:12.319Z</updated>
-        <content type="html"><![CDATA[Andrew Whitworth]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역사 vs 정복자 티무르 – 스테파니 혼첼 스미스]]></title>
-        <id>https://www.ted.com/talks/stephanie_honchell_smith_history_vs_tamerlane_the_conqueror?language=ko</id>
-        <link href="https://www.ted.com/talks/stephanie_honchell_smith_history_vs_tamerlane_the_conqueror?language=ko"/>
-        <updated>2022-04-26T02:01:59.047Z</updated>
-        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양 때문에 인터넷이 멈출 수 있을까요? - 파비오 파쿠치 (Fabil Pacucci)]]></title>
-        <id>https://www.ted.com/talks/fabio_pacucci_why_the_sun_could_crash_your_internet?language=ko</id>
-        <link href="https://www.ted.com/talks/fabio_pacucci_why_the_sun_could_crash_your_internet?language=ko"/>
-        <updated>2022-04-01T21:20:21.501Z</updated>
-        <content type="html"><![CDATA[Fabio Pacucci]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음과 불의 용 수수께끼- 헨리 피치오토]]></title>
-        <id>https://www.ted.com/talks/henri_picciotto_a_riddle_of_ice_and_fire_dragons?language=ko</id>
-        <link href="https://www.ted.com/talks/henri_picciotto_a_riddle_of_ice_and_fire_dragons?language=ko"/>
-        <updated>2022-04-26T02:01:59.049Z</updated>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.732Z</updated>
         <content type="html"><![CDATA[Henri Picciotto]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[염소, 블록 체인과 돈의 미래]]></title>
-        <id>https://www.ted.com/talks/fariel_salahuddin_goats_blockchain_and_the_future_of_money?language=ko</id>
-        <link href="https://www.ted.com/talks/fariel_salahuddin_goats_blockchain_and_the_future_of_money?language=ko"/>
-        <updated>2022-04-06T08:26:30.461Z</updated>
-        <content type="html"><![CDATA[Fariel Salahuddin]]></content>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.735Z</updated>
+        <content type="html"><![CDATA[John C. Mather]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지구 환경을 보호하는 아프리카 늪지]]></title>
-        <id>https://www.ted.com/talks/vera_songwe_the_african_swamp_protecting_earth_s_environment?language=ko</id>
-        <link href="https://www.ted.com/talks/vera_songwe_the_african_swamp_protecting_earth_s_environment?language=ko"/>
-        <updated>2022-04-26T03:51:11.967Z</updated>
-        <content type="html"><![CDATA[Vera Songwe]]></content>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.735Z</updated>
+        <content type="html"><![CDATA[Bill Gates]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정서 학대의 징조 4가지 - 비안 응우엔 펭(Viann Nguyễn-Feng)]]></title>
-        <id>https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse?language=ko</id>
-        <link href="https://www.ted.com/talks/viann_nguyen_feng_4_signs_of_emotional_abuse?language=ko"/>
-        <updated>2022-03-30T10:24:43.102Z</updated>
-        <content type="html"><![CDATA[Viann Nguyen-Feng]]></content>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.736Z</updated>
+        <content type="html"><![CDATA[Christopher M. Moreman]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비즈니스에서의 목적의 힘]]></title>
-        <id>https://www.ted.com/talks/ashley_m_grice_the_power_of_purpose_in_business?language=ko</id>
-        <link href="https://www.ted.com/talks/ashley_m_grice_the_power_of_purpose_in_business?language=ko"/>
-        <updated>2022-04-26T03:51:11.968Z</updated>
-        <content type="html"><![CDATA[Ashley M. Grice]]></content>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.738Z</updated>
+        <content type="html"><![CDATA[Nat Keohane]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비둘기는 어떻게 전 세계를 차지했을까요?]]></title>
-        <id>https://www.ted.com/talks/elizabeth_carlen_and_joanna_moles_how_pigeons_took_over_the_world?language=ko</id>
-        <link href="https://www.ted.com/talks/elizabeth_carlen_and_joanna_moles_how_pigeons_took_over_the_world?language=ko"/>
-        <updated>2022-03-30T08:27:14.148Z</updated>
-        <content type="html"><![CDATA[Elizabeth Carlen and Joanna Moles]]></content>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.739Z</updated>
+        <content type="html"><![CDATA[Allyson Felix]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자가 조립 능력 로봇과 잠재적인 인공 진화]]></title>
-        <id>https://www.ted.com/talks/emma_hart_self_assembling_robots_and_the_potential_of_artificial_evolution?language=ko</id>
-        <link href="https://www.ted.com/talks/emma_hart_self_assembling_robots_and_the_potential_of_artificial_evolution?language=ko"/>
-        <updated>2022-05-04T03:52:59.143Z</updated>
-        <content type="html"><![CDATA[Emma Hart]]></content>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.743Z</updated>
+        <content type="html"><![CDATA[Ameya Gondhalekar]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[난민이 된다는 것은 무슨 뜻일까요? -베네데타 버티, 에브리앙 보그만(Benedetta Berti and Evelien Borgman)]]></title>
-        <id>https://www.ted.com/talks/benedetta_berti_and_evelien_borgman_what_does_it_mean_to_be_a_refugee_mar_2018?language=ko</id>
-        <link href="https://www.ted.com/talks/benedetta_berti_and_evelien_borgman_what_does_it_mean_to_be_a_refugee_mar_2018?language=ko"/>
-        <updated>2022-03-11T22:21:41.120Z</updated>
-        <content type="html"><![CDATA[Benedetta Berti and Evelien Borgman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 전쟁 - 그리고 세계 질서에 미칠 영향]]></title>
-        <id>https://www.ted.com/talks/ian_bremmer_war_in_ukraine_and_what_it_means_for_the_world_order?language=ko</id>
-        <link href="https://www.ted.com/talks/ian_bremmer_war_in_ukraine_and_what_it_means_for_the_world_order?language=ko"/>
-        <updated>2022-05-04T13:42:45.524Z</updated>
-        <content type="html"><![CDATA[Ian Bremmer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홀로코스트에 영향을 준 움직임 - 알렉산드라 민나 스턴과 나탈리 리라]]></title>
-        <id>https://www.ted.com/talks/alexandra_minna_stern_and_natalie_lira_the_movement_that_inspired_the_holocaust?language=ko</id>
-        <link href="https://www.ted.com/talks/alexandra_minna_stern_and_natalie_lira_the_movement_that_inspired_the_holocaust?language=ko"/>
-        <updated>2022-03-10T16:31:20.030Z</updated>
-        <content type="html"><![CDATA[Alexandra Minna Stern and Natalie Lira]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬픽션이 자아내는 창의성 그리고 커뮤니티]]></title>
-        <id>https://www.ted.com/talks/cecilia_aragon_the_creativity_and_community_behind_fanfiction?language=ko</id>
-        <link href="https://www.ted.com/talks/cecilia_aragon_the_creativity_and_community_behind_fanfiction?language=ko"/>
-        <updated>2022-05-12T02:01:14.742Z</updated>
-        <content type="html"><![CDATA[Cecilia Aragon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달의 여신 신화 이야기 - 신디아 페이 데이비스]]></title>
-        <id>https://www.ted.com/talks/cynthia_fay_davis_the_myth_of_the_moon_goddess?language=ko</id>
-        <link href="https://www.ted.com/talks/cynthia_fay_davis_the_myth_of_the_moon_goddess?language=ko"/>
-        <updated>2022-03-13T15:21:44.761Z</updated>
-        <content type="html"><![CDATA[Cynthia Fay Davis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 먹는 거의 모든 음식에 들어간 재료 - 프란체스카 봇(Francesca Bot)]]></title>
-        <id>https://www.ted.com/talks/francesca_bot_the_ingredient_in_almost_everything_you_eat?language=ko</id>
-        <link href="https://www.ted.com/talks/francesca_bot_the_ingredient_in_almost_everything_you_eat?language=ko"/>
-        <updated>2022-03-13T09:20:14.804Z</updated>
-        <content type="html"><![CDATA[Francesca Bot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해조류와 소의 트림이 기후 변화와 무슨 관계가 있을까요?]]></title>
-        <id>https://www.ted.com/talks/ermias_kebreab_what_seaweed_and_cow_burps_have_to_do_with_climate_change?language=ko</id>
-        <link href="https://www.ted.com/talks/ermias_kebreab_what_seaweed_and_cow_burps_have_to_do_with_climate_change?language=ko"/>
-        <updated>2022-05-02T12:43:56.696Z</updated>
-        <content type="html"><![CDATA[Ermias Kebreab]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 수수께끼를 풀어서 천지창조에서 살아남을 수 있을까요? - 제임스 탄톤]]></title>
-        <id>https://www.ted.com/talks/james_tanton_can_you_survive_the_creation_of_the_universe_by_solving_this_riddle?language=ko</id>
-        <link href="https://www.ted.com/talks/james_tanton_can_you_survive_the_creation_of_the_universe_by_solving_this_riddle?language=ko"/>
-        <updated>2022-02-28T10:23:53.629Z</updated>
-        <content type="html"><![CDATA[James Tanton]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광고 대행사, 홍보 회사, 로비스트들이 기후를 파괴하고 있을까요?]]></title>
-        <id>https://www.ted.com/talks/solitaire_townsend_are_ad_agencies_pr_firms_and_lobbyists_destroying_the_climate?language=ko</id>
-        <link href="https://www.ted.com/talks/solitaire_townsend_are_ad_agencies_pr_firms_and_lobbyists_destroying_the_climate?language=ko"/>
-        <updated>2022-03-23T18:26:51.932Z</updated>
-        <content type="html"><![CDATA[Solitaire Townsend]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불가능을 가능케 한 금문교 - 알렉스 젠들러]]></title>
-        <id>https://www.ted.com/talks/alex_gendler_building_the_impossible_golden_gate_bridge?language=ko</id>
-        <link href="https://www.ted.com/talks/alex_gendler_building_the_impossible_golden_gate_bridge?language=ko"/>
-        <updated>2022-02-28T07:08:24.338Z</updated>
-        <content type="html"><![CDATA[Alex Gendler]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나르키소스와 에코의 신화 - 이솔트 길레스피]]></title>
-        <id>https://www.ted.com/talks/iseult_gillespie_the_myth_of_narcissus_and_echo?language=ko</id>
-        <link href="https://www.ted.com/talks/iseult_gillespie_the_myth_of_narcissus_and_echo?language=ko"/>
-        <updated>2022-02-28T07:08:24.340Z</updated>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.744Z</updated>
         <content type="html"><![CDATA[Iseult Gillespie]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[흑인 얼굴과 흑인 고정 관념의 기원]]></title>
-        <id>https://www.ted.com/talks/dwan_reece_the_origins_of_blackface_and_black_stereotypes?language=ko</id>
-        <link href="https://www.ted.com/talks/dwan_reece_the_origins_of_blackface_and_black_stereotypes?language=ko"/>
-        <updated>2022-04-04T12:38:31.748Z</updated>
-        <content type="html"><![CDATA[Dwan Reece]]></content>
+        <title type="html"><![CDATA[14]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.749Z</updated>
+        <content type="html"><![CDATA[Zoya Lytvyn]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제트 팩은 어떻게 작동할까요? 그리고 왜 모두가 쓰고 있지 않을까요? - 리처드 브라우닝과 데비 브라우닝]]></title>
-        <id>https://www.ted.com/talks/richard_browning_how_do_jetpacks_work_and_why_don_t_we_all_have_them?language=ko</id>
-        <link href="https://www.ted.com/talks/richard_browning_how_do_jetpacks_work_and_why_don_t_we_all_have_them?language=ko"/>
-        <updated>2022-02-28T07:08:24.377Z</updated>
-        <content type="html"><![CDATA[Richard Browning]]></content>
+        <title type="html"><![CDATA[15]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.750Z</updated>
+        <content type="html"><![CDATA[Alex Worsnip]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네 가지 후회 - 스스로에 대해 무엇을 가르쳐줄까요]]></title>
-        <id>https://www.ted.com/talks/daniel_h_pink_4_kinds_of_regret_and_what_they_teach_you_about_yourself?language=ko</id>
-        <link href="https://www.ted.com/talks/daniel_h_pink_4_kinds_of_regret_and_what_they_teach_you_about_yourself?language=ko"/>
-        <updated>2022-04-19T12:46:11.047Z</updated>
-        <content type="html"><![CDATA[Daniel H. Pink]]></content>
+        <title type="html"><![CDATA[16]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.752Z</updated>
+        <content type="html"><![CDATA[Garry Kasparov]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['정상'은 무엇이고 '다름'은 무엇일까요? - 야나 버러 타바니에(Yana Buhrer Tavanier)]]></title>
-        <id>https://www.ted.com/talks/yana_buhrer_tavanier_what_is_normal_and_what_is_different?language=ko</id>
-        <link href="https://www.ted.com/talks/yana_buhrer_tavanier_what_is_normal_and_what_is_different?language=ko"/>
-        <updated>2022-02-28T07:08:24.377Z</updated>
-        <content type="html"><![CDATA[Yana Buhrer Tavanier]]></content>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.754Z</updated>
+        <content type="html"><![CDATA[Andrew Whitworth]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전자 제품이 기후에 미치는 영향을 줄이는 법]]></title>
-        <id>https://www.ted.com/talks/tim_dunn_how_we_re_reducing_the_climate_impact_of_electronics?language=ko</id>
-        <link href="https://www.ted.com/talks/tim_dunn_how_we_re_reducing_the_climate_impact_of_electronics?language=ko"/>
-        <updated>2022-03-05T09:19:10.754Z</updated>
-        <content type="html"><![CDATA[Tim Dunn]]></content>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.760Z</updated>
+        <content type="html"><![CDATA[Gabriel Kra]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가웨인 경과 녹색기사의 전설 - 댄 콰틀러]]></title>
-        <id>https://www.ted.com/talks/dan_kwartler_the_myth_of_gawain_and_the_green_knight?language=ko</id>
-        <link href="https://www.ted.com/talks/dan_kwartler_the_myth_of_gawain_and_the_green_knight?language=ko"/>
-        <updated>2022-03-15T06:26:38.475Z</updated>
-        <content type="html"><![CDATA[Dan Kwartler]]></content>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.761Z</updated>
+        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광음향 영상학의 놀라운 암 진단 잠재력]]></title>
-        <id>https://www.ted.com/talks/lei_li_the_incredible_cancer_detecting_potential_of_photoacoustic_imaging?language=ko</id>
-        <link href="https://www.ted.com/talks/lei_li_the_incredible_cancer_detecting_potential_of_photoacoustic_imaging?language=ko"/>
-        <updated>2022-03-23T18:26:51.940Z</updated>
-        <content type="html"><![CDATA[Lei Li]]></content>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.764Z</updated>
+        <content type="html"><![CDATA[Jarrett J. Krosoczka]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.766Z</updated>
+        <content type="html"><![CDATA[Fabio Pacucci]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.768Z</updated>
+        <content type="html"><![CDATA[Hyeonmi Kim]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.770Z</updated>
+        <content type="html"><![CDATA[Henri Picciotto]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.771Z</updated>
+        <content type="html"><![CDATA[Fariel Salahuddin]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.773Z</updated>
+        <content type="html"><![CDATA[Vera Songwe]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.778Z</updated>
+        <content type="html"><![CDATA[Viann Nguyen-Feng]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.779Z</updated>
+        <content type="html"><![CDATA[Ashley M. Grice]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.781Z</updated>
+        <content type="html"><![CDATA[Elizabeth Carlen and Joanna Moles]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[29]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.783Z</updated>
+        <content type="html"><![CDATA[Emma Hart]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.785Z</updated>
+        <content type="html"><![CDATA[Benedetta Berti and Evelien Borgman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[31]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.790Z</updated>
+        <content type="html"><![CDATA[Ian Bremmer]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.793Z</updated>
+        <content type="html"><![CDATA[Cameron Webb]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.797Z</updated>
+        <content type="html"><![CDATA[Alexandra Minna Stern and Natalie Lira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.799Z</updated>
+        <content type="html"><![CDATA[Cecilia Aragon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-06-04T13:13:19.801Z</updated>
+        <content type="html"><![CDATA[Cynthia Fay Davis]]></content>
     </entry>
 </feed>
