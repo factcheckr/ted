@@ -2,7 +2,259 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
     <title>TED Talks 한국어</title>
-    <updated>2022-11-13T06:28:25.897Z</updated>
+    <updated>2022-11-13T07:21:27.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pa.tedcdn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.248Z</updated>
+        <content type="html"><![CDATA[Rebecca L. Walker]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.263Z</updated>
+        <content type="html"><![CDATA[Emmanuel During]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.265Z</updated>
+        <content type="html"><![CDATA[Shannon Odell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.268Z</updated>
+        <content type="html"><![CDATA[Henry Richardson]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.270Z</updated>
+        <content type="html"><![CDATA[Jen Gunter]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.271Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.275Z</updated>
+        <content type="html"><![CDATA[Iseult Gillespie]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.275Z</updated>
+        <content type="html"><![CDATA[Albert Fox Cahn]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.279Z</updated>
+        <content type="html"><![CDATA[Elizabeth Cox]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.292Z</updated>
+        <content type="html"><![CDATA[Alex Gendler]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.300Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.300Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.300Z</updated>
+        <content type="html"><![CDATA[Barbara Thorne]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.300Z</updated>
+        <content type="html"><![CDATA[Fabio Pacucci]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.301Z</updated>
+        <content type="html"><![CDATA[Micaela Mantegna]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.301Z</updated>
+        <content type="html"><![CDATA[Jamie Bernthal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.302Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.302Z</updated>
+        <content type="html"><![CDATA[Ilan Stavans]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.305Z</updated>
+        <content type="html"><![CDATA[Charles Wallace and Sajan Saini]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.308Z</updated>
+        <content type="html"><![CDATA[César Cuauhtémoc García Hernández]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.309Z</updated>
+        <content type="html"><![CDATA[Dan Widmaier]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.314Z</updated>
+        <content type="html"><![CDATA[Lyla Latif]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.316Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.317Z</updated>
+        <content type="html"><![CDATA[Parag Khanna]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.318Z</updated>
+        <content type="html"><![CDATA[Zahra Biabani]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.319Z</updated>
+        <content type="html"><![CDATA[Chanda Prescod-Weinstein]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.320Z</updated>
+        <content type="html"><![CDATA[Tierney Thys and Christian Sardet]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.321Z</updated>
+        <content type="html"><![CDATA[Thomas Heatherwick]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.331Z</updated>
+        <content type="html"><![CDATA[Olga Kitaina]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[29]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.332Z</updated>
+        <content type="html"><![CDATA[Judy Grisel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.334Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[31]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.335Z</updated>
+        <content type="html"><![CDATA[Andrew Lovering]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.336Z</updated>
+        <content type="html"><![CDATA[JR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[33]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.337Z</updated>
+        <content type="html"><![CDATA[Grace Smith-Viduarre and Tim Wright]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.366Z</updated>
+        <content type="html"><![CDATA[Jennifer Heldmann]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35]]></title>
+        <id>https://www.ted.com/talks?sort=newest&amp;language=ko</id>
+        <link href="https://www.ted.com/talks?sort=newest&amp;language=ko"/>
+        <updated>2022-11-13T07:21:27.367Z</updated>
+        <content type="html"><![CDATA[Miranda Brown]]></content>
+    </entry>
 </feed>
