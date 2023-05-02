@@ -2,258 +2,258 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/ted/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-02T02:36:34.430Z</updated>
+    <updated>2023-05-02T03:20:09.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.681Z</updated>
+        <updated>2023-05-02T03:20:08.359Z</updated>
+        <content type="html"><![CDATA[Andrew Smith]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.359Z</updated>
+        <content type="html"><![CDATA[Dave Sivaprasad]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.361Z</updated>
+        <content type="html"><![CDATA[Chinyanta Kabaso]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.361Z</updated>
+        <content type="html"><![CDATA[Susan Freitas and Darren Parker]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.361Z</updated>
+        <content type="html"><![CDATA[Malachy McHugh]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.361Z</updated>
+        <content type="html"><![CDATA[Dan Finkel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.361Z</updated>
+        <content type="html"><![CDATA[Charles Wallace]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.361Z</updated>
+        <content type="html"><![CDATA[Birte Kristiansen and Petra Sijpesteijn]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.361Z</updated>
+        <content type="html"><![CDATA[Emily Grubert]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.364Z</updated>
         <content type="html"><![CDATA[Antonio Cataldo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.681Z</updated>
+        <updated>2023-05-02T03:20:08.364Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.681Z</updated>
+        <updated>2023-05-02T03:20:08.366Z</updated>
+        <content type="html"><![CDATA[Phnam Bagley]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.368Z</updated>
+        <content type="html"><![CDATA[Rebekah Shirley]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.370Z</updated>
+        <content type="html"><![CDATA[Jean-Baptiste P. Koehl]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.373Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.375Z</updated>
+        <content type="html"><![CDATA[Brendan Rogers and Jessica Howard]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.377Z</updated>
+        <content type="html"><![CDATA[Mollie Godfrey]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.382Z</updated>
+        <content type="html"><![CDATA[Jan Wurzbacher]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.384Z</updated>
+        <content type="html"><![CDATA[TED-Ed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.386Z</updated>
+        <content type="html"><![CDATA[Ksenia Petrichenko]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.388Z</updated>
         <content type="html"><![CDATA[Raymond Adkins]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.682Z</updated>
+        <updated>2023-05-02T03:20:08.390Z</updated>
+        <content type="html"><![CDATA[Keenan Norris]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.393Z</updated>
+        <content type="html"><![CDATA[Tolu Oyekan]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.408Z</updated>
+        <content type="html"><![CDATA[Jawad Sharif]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.408Z</updated>
+        <content type="html"><![CDATA[David Andrew Quist]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.408Z</updated>
         <content type="html"><![CDATA[Karlos Hill and Soraya Field Fiorio]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.698Z</updated>
+        <updated>2023-05-02T03:20:08.408Z</updated>
         <content type="html"><![CDATA[Talya Hackett]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.699Z</updated>
+        <updated>2023-05-02T03:20:08.408Z</updated>
+        <content type="html"><![CDATA[Dennis Hong]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
+        <id>https://factcheckr.github.io/ted/all.xml</id>
+        <link href="https://factcheckr.github.io/ted/all.xml"/>
+        <updated>2023-05-02T03:20:08.409Z</updated>
         <content type="html"><![CDATA[TED-Ed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.700Z</updated>
+        <updated>2023-05-02T03:20:08.420Z</updated>
         <content type="html"><![CDATA[Shannon Odell]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.700Z</updated>
+        <updated>2023-05-02T03:20:08.422Z</updated>
         <content type="html"><![CDATA[George Monbiot]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.700Z</updated>
+        <updated>2023-05-02T03:20:08.422Z</updated>
         <content type="html"><![CDATA[Vivian Jiang]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.701Z</updated>
+        <updated>2023-05-02T03:20:08.422Z</updated>
         <content type="html"><![CDATA[Clementine Jacoby]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.703Z</updated>
+        <updated>2023-05-02T03:20:08.422Z</updated>
         <content type="html"><![CDATA[Miles Zhang]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.704Z</updated>
+        <updated>2023-05-02T03:20:08.422Z</updated>
         <content type="html"><![CDATA[Ben Gran]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
         <id>https://factcheckr.github.io/ted/all.xml</id>
         <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.709Z</updated>
+        <updated>2023-05-02T03:20:08.423Z</updated>
         <content type="html"><![CDATA[Frank Cogliano]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.711Z</updated>
-        <content type="html"><![CDATA[Jessie Christiansen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.720Z</updated>
-        <content type="html"><![CDATA[Colin Averill]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.721Z</updated>
-        <content type="html"><![CDATA[Glynnis Hood]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.722Z</updated>
-        <content type="html"><![CDATA[KC Davis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.725Z</updated>
-        <content type="html"><![CDATA[Joshua Paul Dale]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.725Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.725Z</updated>
-        <content type="html"><![CDATA[Shannon Odell]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.726Z</updated>
-        <content type="html"><![CDATA[Frances S. Chance]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.730Z</updated>
-        <content type="html"><![CDATA[Miguel Goncalves]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.731Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.733Z</updated>
-        <content type="html"><![CDATA[Xavier Cortada]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.735Z</updated>
-        <content type="html"><![CDATA[Gautam Shah]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.736Z</updated>
-        <content type="html"><![CDATA[Shannon Odell]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.738Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.742Z</updated>
-        <content type="html"><![CDATA[Tessa Khan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.743Z</updated>
-        <content type="html"><![CDATA[Stephanie Honchell Smith]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.745Z</updated>
-        <content type="html"><![CDATA[Fallon Goodman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.746Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.748Z</updated>
-        <content type="html"><![CDATA[Jen Gunter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.750Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.751Z</updated>
-        <content type="html"><![CDATA[TED-Ed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.753Z</updated>
-        <content type="html"><![CDATA[Ralph Chami]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (TED Talks 한국어)]]></title>
-        <id>https://factcheckr.github.io/ted/all.xml</id>
-        <link href="https://factcheckr.github.io/ted/all.xml"/>
-        <updated>2023-03-23T07:17:17.760Z</updated>
-        <content type="html"><![CDATA[Jay Van Bavel and Dominic Packer]]></content>
     </entry>
 </feed>
